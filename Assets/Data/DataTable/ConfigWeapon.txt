@@ -1,0 +1,7 @@
+id	weaponType	name	prefab	rof	range	damge	accuracy_min	accuracy_max	reload
+1	1	Scar	WP_1	0.2	20	5	40	80	2
+2	2	Glock	WP_2	0.5	15	10	50	80	2
+5	5	Gatling	WP_5	0.1	25	3	60	100	5
+4	4	M241	WP_4	0.2	25	5	60	100	3
+3	3	Red	WP_3	1	15	2	60	90	1
+6	6	Rocket	WP_6	1	30	20	0	0	3
